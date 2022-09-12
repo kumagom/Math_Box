@@ -1,2 +1,3 @@
 # 기본 라이센스
 Premium
+- Enterprise use: 한달에 500달러
